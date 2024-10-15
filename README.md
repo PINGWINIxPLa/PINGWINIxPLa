@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PINGWINIxPLa
-- 👀 I’m interested in python, html, css, javascript
+- 👀 I’m interested in Python, HTML, CSS, Javascript
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing for now
 - 😄 Pronouns: Male
-- ⚡ Fun fact: A tiger is stronger than a baby
